@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Política de Privacidade - Recicla-Me</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f5f7f6;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #0f5c4d;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+
+    header p {
+      margin-top: 10px;
+      font-size: 14px;
+      opacity: 0.9;
+    }
+
+    nav {
+      background: #ffffff;
+      padding: 10px;
+      position: sticky;
+      top: 0;
+      border-bottom: 1px solid #ddd;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #0f5c4d;
+      font-weight: bold;
+      font-size: 13px;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
+      background: white;
+    }
+
+    section {
+      margin-bottom: 30px;
+    }
+
+    h2 {
+      color: #0f5c4d;
+      border-bottom: 2px solid #0f5c4d;
+      padding-bottom: 5px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    footer {
+      background: #0f5c4d;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+      font-size: 14px;
+    }
+
+    .btn-top {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: #0f5c4d;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      cursor: pointer;
+      border-radius: 5px;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Política de Privacidade</h1>
+  <p>Aplicação Recicla-Me • Última atualização: 04/20/2026</p>
+</header>
+
+<nav>
+  <a href="#responsavel">Responsável</a>
+  <a href="#dados">Dados</a>
+  <a href="#recolha">Recolha</a>
+  <a href="#finalidade">Finalidade</a>
+  <a href="#legal">Legal</a>
+  <a href="#partilha">Partilha</a>
+  <a href="#seguranca">Segurança</a>
+  <a href="#direitos">Direitos</a>
+  <a href="#contactos">Contactos</a>
+</nav>
+
+<div class="container">
+
+  <section>
+    <p>
+      O Recicla-Me valoriza a privacidade e a proteção dos dados pessoais dos seus utilizadores.
+      Esta política explica como os dados são recolhidos, utilizados e protegidos.
+    </p>
+  </section>
+
+  <section id="responsavel">
+    <h2>1. Responsável pelo Tratamento</h2>
+    <p><strong>Cinapse, S.A</strong></p>
+    <p>Centralidade do Kilamba, Luanda - Angola</p>
+    <p>Email: comercial@cinapse.ao</p>
+    <p>Telefone: +244 924 564 900</p>
+  </section>
+
+  <section id="dados">
+    <h2>2. Dados Recolhidos</h2>
+    <ul>
+      <li>Nome, apelido e foto</li>
+      <li>Email e telefone</li>
+      <li>Credenciais e histórico</li>
+      <li>Localização aproximada</li>
+      <li>Dados financeiros (sem acesso bancário direto)</li>
+      <li>Dados de anúncios e transações</li>
+      <li>IP, dispositivo e sistema</li>
+    </ul>
+  </section>
+
+  <section id="recolha">
+    <h2>3. Forma de Recolha</h2>
+    <ul>
+      <li>Criação de conta</li>
+      <li>Uso da aplicação</li>
+      <li>Transações</li>
+      <li>Suporte</li>
+      <li>Cookies</li>
+    </ul>
+  </section>
+
+  <section id="finalidade">
+    <h2>4. Finalidade</h2>
+    <ul>
+      <li>Gerir contas</li>
+      <li>Permitir compras e vendas</li>
+      <li>Processar pagamentos</li>
+      <li>Garantir segurança</li>
+      <li>Melhorar experiência</li>
+      <li>Enviar notificações</li>
+      <li>Cumprir obrigações legais</li>
+    </ul>
+  </section>
+
+  <section id="legal">
+    <h2>5. Base Legal</h2>
+    <ul>
+      <li>Consentimento</li>
+      <li>Execução de contrato</li>
+      <li>Obrigação legal</li>
+      <li>Interesse legítimo</li>
+    </ul>
+  </section>
+
+  <section id="partilha">
+    <h2>6. Partilha de Dados</h2>
+    <p>Os dados não são vendidos.</p>
+    <ul>
+      <li>Prestadores de serviços</li>
+      <li>Autoridades legais</li>
+      <li>Com consentimento</li>
+    </ul>
+  </section>
+
+  <section id="seguranca">
+    <h2>7. Segurança e Conservação</h2>
+    <p>
+      Os dados são protegidos contra acesso não autorizado, perda ou alteração.
+      São mantidos apenas pelo tempo necessário.
+    </p>
+  </section>
+
+  <section id="direitos">
+    <h2>8. Direitos do Utilizador</h2>
+    <ul>
+      <li>Acesso aos dados</li>
+      <li>Correção</li>
+      <li>Eliminação</li>
+      <li>Oposição</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>9. Cookies</h2>
+    <p>
+      Utilizados para melhorar navegação, estatísticas e personalização.
+    </p>
+  </section>
+
+  <section>
+    <h2>10. Alterações</h2>
+    <p>
+      A política pode ser atualizada a qualquer momento.
+    </p>
+  </section>
+
+  <section id="contactos">
+    <h2>11. Contactos</h2>
+    <p>Email: comercial@cinapse.ao</p>
+    <p>Telefone: +244 924 564 900</p>
+    <p>Website: www.cinapse.ao</p>
+  </section>
+
+</div>
+
+<footer>
+  <p>© 2026 Cinapse, S.A • Todos os direitos reservados</p>
+</footer>
+
+<button class="btn-top" onclick="scrollToTop()">↑</button>
+
+<script>
+  const btn = document.querySelector(".btn-top");
+
+  window.onscroll = () => {
+    btn.style.display = window.scrollY > 300 ? "block" : "none";
+  };
+
+  function scrollToTop() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+</script>
+
+</body>
+</html>
